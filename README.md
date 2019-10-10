@@ -15,13 +15,13 @@
 ## Screenshots 🖼️
 <b>
 <p align="center">
-    <img width="auto" height="auto" src="https://nebrasapps.com/github/web_cv3.png" alt="Web CV Screenshot" /> 
+    <img width="auto" height="auto" src="Public/images/1.png" alt="Web CV Screenshot" /> 
    <br><br>
-    <img width="auto" height="auto" src="https://nebrasapps.com/github/web_cv4.png" alt="Web CV Screenshot" /> 
+    <img width="auto" height="auto" src="Public/images/2.png" alt="Web CV Screenshot" /> 
    <br><br>
-    <img width="auto" height="auto" src="https://nebrasapps.com/github/web_cv1.png" alt="Web CV Screenshot" /> 
+    <img width="auto" height="auto" src="Public/images/3.png" alt="Web CV Screenshot" /> 
    <br><br>
-    <img width="auto" height="auto" src="https://nebrasapps.com/github/web_cv2.png" alt="Web CV Screenshot" /> 
+    <img width="auto" height="auto" src="Public/images/4.png" alt="Web CV Screenshot" /> 
 
 </p>
 
