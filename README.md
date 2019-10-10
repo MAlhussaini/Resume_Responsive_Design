@@ -14,13 +14,13 @@
 
 <b>
 <p align="center">
-    <img width=50% height=50% src="Public/images/1.png" alt="Web CV Screenshot" /> 
+    <img width=25% height=25% src="Public/images/1.png" alt="Web CV Screenshot" /> 
    <br><br>
-    <img width=50% height=50% src="Public/images/2.png" alt="Web CV Screenshot" /> 
+    <img width=25% height=25% src="Public/images/2.png" alt="Web CV Screenshot" /> 
    <br><br>
-    <img width=50% height=50% src="Public/images/3.png" alt="Web CV Screenshot" /> 
+    <img width=25% height=25% src="Public/images/3.png" alt="Web CV Screenshot" /> 
    <br><br>
-    <img width=50% height=50% src="Public/images/4.png" alt="Web CV Screenshot" />
+    <img width=25% height=25% src="Public/images/4.png" alt="Web CV Screenshot" />
 
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <b></b>
-<img width=40% height=40% src="Public/images/Logo.png" />
+<img width=15% height=15% src="Public/images/Logo.png" />
 </br></br>
 </p>
 <p align="right">
